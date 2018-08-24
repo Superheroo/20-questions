@@ -1,5 +1,5 @@
-globalData: {
-    question: [
+{
+    "question": [
         {
             "question": "当你觉得累了，哪种活动能让你放松",
             "option": {
